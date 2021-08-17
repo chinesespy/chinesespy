@@ -1,5 +1,5 @@
 <h1 align="center">Hello 0x965</h1>
-<h3 align="center">SourWare.co Main Dev</h3>
+<h3 align="center">nigga</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x965&label=Niggas%20pasting&color=ff0000&style=flat" alt="0x965" /> </p>
 
