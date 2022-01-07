@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mjuc0</h1>
 <h3 align="center">full-stack developer from EU</h3>
 
-- 🚧 Working on **bearnet**
+- 🚧 Working on **climbershub**
 
 - ⚡ Fun fact **moneypasted**
 
