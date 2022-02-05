@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm mjuc0</h1>
+<h1 align="center">Hi 👋, I'm 黑鬼</h1>
 <h3 align="center">full-stack developer from EU</h3>
 
-- 🚧 Working on **climbershub**
+- 🚧 Working on tapping ur grandma in r6
 
 - ⚡ Fun fact **moneypasted**
 
