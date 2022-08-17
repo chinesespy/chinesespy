@@ -3,8 +3,6 @@
 
 - 🚧 Working on tapping ur grandma in r6
 
-- ⚡ Fun fact **moneypasted**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
