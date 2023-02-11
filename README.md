@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 最大值</h1>
-<h3 align="center">full-stack developer from EU</h3>
+<h1 align="center">Hi 👋, I'm КОШКА</h1>
+<h3 align="center">full-stack developer from Azerbaijan / Antarctica</h3>
 
 - 🚧 Working on tapping ur grandma in r6
 
