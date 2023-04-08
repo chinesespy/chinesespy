@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm КОШКА</h1>
+<h1 align="center">здравствуйте, я кот кодер </h1>
 <h3 align="center">full-stack developer from Azerbaijan / Antarctica</h3>
-
-- 🚧 Working on tapping ur grandma in r6
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
