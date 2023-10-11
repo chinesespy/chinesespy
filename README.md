@@ -1,5 +1,5 @@
-<h1 align="center">здравствуйте, я кот кодер </h1>
-<h3 align="center">full-stack developer from Azerbaijan / Antarctica</h3>
+<h1 align="center">hello </h1>
+<h3 align="center">full-stack developer from Antarctica</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
