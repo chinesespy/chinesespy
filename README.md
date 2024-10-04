@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  mkxf on discord
+  You cant lol
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
