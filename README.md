@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%5B-%5D+Loading+data...;404+Not+Found)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2000&pause=1000&color=F70000&width=435&lines=%5B-%5D+Loading+data...;404+Not+Found)](https://git.io/typing-svg)
