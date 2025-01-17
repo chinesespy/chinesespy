@@ -4,10 +4,12 @@
 ```json
 {
   "languages": [
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Go"
+    "JS",
+    "TS",
+    "PHP",
+    "C++",
+    "HTML",
+    "CSS"
   ],
   "frontend": [
     "React",
@@ -17,21 +19,6 @@
   ],
   "backend": [
     "Laravel",
-    "PHP"
-  ],
-  "databases": [
-    "PostgreSQL",
-    "Redis"
-  ],
-  "devops": [
-    "Docker",
-    "Kubernetes",
-    "CI/CD",
-    "AWS"
-  ],
-  "tools": [
-    "Git",
-    "VS Codium",
   ],
   "intrests": [
     "Crypto",
