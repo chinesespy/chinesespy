@@ -1,4 +1,4 @@
-# [plusplusplus]
+# Chinesespy
 ## Skills
 
 ```json
@@ -17,7 +17,7 @@
   ],
   "backend": [
     "Laravel",
-    "PhP"
+    "PHP"
   ],
   "databases": [
     "PostgreSQL",
