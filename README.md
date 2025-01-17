@@ -1,6 +1,9 @@
 ```json
 {
-  "name": undefined,
+
+  "name": "chinesespy",
+  "age": 18,
+  
   "languages": [
     "JS",
     "TS",
