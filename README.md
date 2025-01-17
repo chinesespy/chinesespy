@@ -1,8 +1,6 @@
-# Chinesespy
-## Skills
-
 ```json
 {
+  "name": undefined,
   "languages": [
     "JS",
     "TS",
