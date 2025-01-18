@@ -14,6 +14,7 @@
   ],
   "frontend": [
     "React",
+    "React Native",
     "Vue.js",
     "Next.js",
     "Tailwind CSS"
