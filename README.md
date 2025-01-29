@@ -2,7 +2,6 @@
 {
 
   "name": "chinesespy",
-  "age": 18,
   
   "languages": [
     "JS",
