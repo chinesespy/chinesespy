@@ -2,10 +2,8 @@
 {
 
   "name": "chinesespy",
-  
   "languages": [
     "JS",
-    "TS",
     "PHP",
     "C++",
     "HTML",
@@ -15,7 +13,6 @@
     "React",
     "React Native",
     "Vue.js",
-    "Next.js",
     "Tailwind CSS"
   ],
   "backend": [
